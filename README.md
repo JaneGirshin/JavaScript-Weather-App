@@ -1,11 +1,13 @@
 # JavaScript Weather App
 
-Weather app build in JavaScript, includes an third party API (Open Weather Map API).
+![weather](https://user-images.githubusercontent.com/54534609/86389966-d81fb500-bc9f-11ea-8796-8734c3bd6649.png)
 
-Build in HTML, CSS, JavaScript only. 
+A weather app built in JavaScript, includes a third party API (Open Weather Map API).
+
+Built in HTML, CSS and ES6 JavaScript.
 
 ---
 
-API taken from: https://openweathermap.org/api
+The API is taken from: https://openweathermap.org/api
 
 Background image taken from: https://pixabay.com/
